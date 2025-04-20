@@ -49,7 +49,7 @@ The main goals of this project are:
 ## 🚀 How to Run This Project
 
 1. Clone or download the repository
-2. Open `amazon full project.py` in Jupyter Notebook / VS Code / Colab
+2. Open `amazon full project.py` in Jupyter Notebook / VS Code / Pycharm
 3. Make sure `amazon_prime_titles.csv` is in the same folder
 4. Run the cells step-by-step to see the results and visualizations
 
